@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "SIMARI",
+      "reviews": 20,
+      "low": 25.0,
+      "issue": "Durability and wear",
+      "mentions": 6,
+      "action": "Test sole and fabric durability",
+      "type": "Product test",
+      "confidence": "Repeated sample signal"
+    },
+    {
+      "name": "SOLLBEAM",
+      "reviews": 149,
+      "low": 12.8,
+      "issue": "Comfort and support",
+      "mentions": 16,
+      "action": "Test support; clarify product limitations",
+      "type": "Product + listing",
+      "confidence": "Repeated sample signal"
+    },
+    {
+      "name": "SHAPERMINT",
+      "reviews": 23,
+      "low": 39.1,
+      "issue": "Listing mismatch",
+      "mentions": 3,
+      "action": "Verify fit and clarify sizing / rolling claims",
+      "type": "Listing + product verification",
+      "confidence": "Small sample; verify"
+    },
+    {
+      "name": "REEF",
+      "reviews": 34,
+      "low": 11.8,
+      "issue": "Closures, straps and fasteners",
+      "mentions": 3,
+      "action": "Inspect strap material and stitching",
+      "type": "Product test",
+      "confidence": "Small signal; verify"
+    },
+    {
+      "name": "FRUIT OF THE LOOM",
+      "reviews": 20,
+      "low": 20.0,
+      "issue": "No repeated complaint signal",
+      "mentions": 0,
+      "action": "Collect more evidence before changing product",
+      "type": "Evidence gathering",
+      "confidence": "Insufficient repeated evidence"
+    }
+  ],
+  "metrics": {
+    "sample_reviews": 8535,
+    "parent_products": 5221,
+    "demo_reviews": 246,
+    "eligible_parents": 9,
+    "semantic_selected": 79,
+    "semantic_accepted": 24,
+    "semantic_fallback": 55,
+    "actions": 16,
+    "gpt_actions": 10,
+    "fallback_actions": 6,
+    "api_cost_usd": 0.009005
+  },
+  "source": "Saved notebook outputs and team presentation. Not a live feed."
+}

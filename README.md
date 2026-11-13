@@ -1,2 +1,1 @@
-# vendor-intelligence-advisor
-AI-powered Vendor Intelligence Platform - Transforming Amazon customer reviews into actionable product improvement recommendations using NLP, sentiment analysis, and LLMs.
+Place the two original Amazon Reviews 2023 Clothing_Shoes_and_Jewelry JSONL files here, or follow the notebook path configuration. Raw source data is intentionally not redistributed.
